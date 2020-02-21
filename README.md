@@ -46,7 +46,7 @@
 * 南开大学（NAIKAI）：http://acm.nankai.edu.cn/
 * 天津大学（TJU）：http://acm.tju.edu.cn/toj/
 #### 东北地区： 
-* 黑龙江：
+##### 黑龙江：
 * 哈尔滨工程大学（HRBEU）：http://acm.hrbeu.edu.cn/
 #### 华南地区：
 ##### 广东：
